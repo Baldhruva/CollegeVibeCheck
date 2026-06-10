@@ -244,7 +244,7 @@ export default function CompleteProfilePage() {
                 backgroundColor: "white",
                 border: "1px solid #ccc",
                 padding: "8px",
-                color: "black",
+                color: "#666",
                 zIndex: 10,
               }}
             >
