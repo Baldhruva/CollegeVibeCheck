@@ -224,6 +224,7 @@ export default function CompleteProfilePage() {
                     padding: "8px",
                     cursor: "pointer",
                     borderBottom: "1px solid #eee",
+                    color: "black"
                   }}
                 >
                   {c.name}
