@@ -207,6 +207,7 @@ export default function CompleteProfilePage() {
                 left: 0,
                 right: 0,
                 backgroundColor: "white",
+                color: "black",   
                 border: "1px solid #ccc",
                 margin: 0,
                 padding: 0,
