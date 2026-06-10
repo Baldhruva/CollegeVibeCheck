@@ -242,7 +242,7 @@ export default function CompleteProfilePage() {
                 backgroundColor: "white",
                 border: "1px solid #ccc",
                 padding: "8px",
-                color: "#666",
+                color: "black",
                 zIndex: 10,
               }}
             >
